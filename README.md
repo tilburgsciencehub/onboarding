@@ -4,7 +4,7 @@ This repository contains information on how to get started working in our team o
 
 ## New to the team?
 
-Head over to our wiki and learn how to get started.
+Head over to **[our wiki](https://github.com/tilburgsciencehub/onboard/wiki/RA-Onboarding)** and learn how to get started.
 
 ## Projects board using SCRUM
 
