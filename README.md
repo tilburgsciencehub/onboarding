@@ -1,3 +1,5 @@
+![](https://tilburgsciencehub.com/img/logo.svg)
+
 # Welcome on board!
 
 This repository contains information on how to get started working in our team on all the projects run at Tilburg Science Hub.
