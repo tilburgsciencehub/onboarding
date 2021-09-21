@@ -10,7 +10,7 @@ Head over to **[our wiki](https://github.com/tilburgsciencehub/onboard/wiki)** a
 
 ## Project board using SCRUM
 
-We plan tasks and get things done using the SCRUM methodology. Get started visiting the **[Projects](https://github.com/tilburgsciencehub/onboard/projects)** tab.
+We plan tasks and get things done using the SCRUM methodology. Get started visiting the **[Projects](https://github.com/orgs/tilburgsciencehub/projects)** tab.
 
 ## Got questions?
 
