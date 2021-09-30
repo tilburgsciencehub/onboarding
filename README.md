@@ -6,7 +6,7 @@ This repository contains information on how to get started working in our team a
 
 ## New to the team?
 
-[Head over to our wiki](https://github.com/tilburgsciencehub/onboard/wiki)** and learn how to get started.
+**[Head over to our wiki](https://github.com/tilburgsciencehub/onboard/wiki)** and learn how to get started.
 
 ## Project board using Scrum
 
